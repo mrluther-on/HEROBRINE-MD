@@ -46,7 +46,7 @@
 | MODE | mode public or private |
 | autoRead | make it true if you want bot to read messages |
 | statusview | make it true if you want bot to view status | 
-| OWNERS | owner number(917605902011;GURU;6281255369012;Ash) | 
+| OWNERS | owner number(9196144*****;luther;91600*******;debatej) | 
 | BOTNAME | Your Bot Name | 
 | antidelete | bot will forward deleted messages if you make it true | 
 
